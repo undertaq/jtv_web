@@ -33932,7 +33932,7 @@ bu_(a){if(isFinite(a))return A.dn(0,B.e.bg(a*1000),0)
 else if(a==1/0||a==-1/0)return B.V6
 return null},
 bi3(){return B.W3},
-b3X(a){return"https://corsproxy.io/?"+A.mM(2,a,B.O,!1)},
+b3X(a){return"https://api.allorigins.win/raw?url="+A.mM(2,a,B.O,!1)},
 yo(a,b){var s=0,r=A.x(t.Wd),q
 var $async$yo=A.r(function(c,d){if(c===1)return A.t(d,r)
 for(;;)switch(s){case 0:q=A.b9H(A.e2(A.b3X(a.k(0)),0,null),b)
